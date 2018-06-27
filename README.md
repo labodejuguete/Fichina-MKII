@@ -5,6 +5,8 @@ Fichina MKII es la versión mejorada de Fichina MKI, diseñada en el 2013 para l
 Fichina permite jugar juegos clásicos como Pong, Asteroids o Tetris y al mismo tiempo es una placa 100% Arduino Compatible. Podés usar cualquier shield que tengas (excepto las que requieran 3.3V) para expandir sus capacidades (control de motores, servos, leds, tiras de leds, etc.... Fichina está basada en HACKVISION de Nootropic Design.
 https://nootropicdesign.com/hackvision/
 
+VIDEO: https://www.facebook.com/flexiblelab/videos/1886968704687139/
+
 Para usar los juegos, vas a necesitar la librería TV Out.
 https://github.com/Avamander/arduino-tvout
 y la librería de Hackvision también:
