@@ -19,8 +19,6 @@ http://nootropicdesign.com/hackvision/games.html
 
 Para subir los juegos a la placa vas a necesitar el típico adaptador USB a Serial (basado en el chip FTDI), como los de Arduino, Adafruit or Sparkfun entre otros. O sencillamente usar una placa arduino compatible para subir el códico y luego colocar ese chip Atmega en esta placa. 
 
-(2018 UPDATE) Muchos de los juegos nunca fueron actualizados por lo que la última IDE de Arduino testeada funcional es la 1.0.5 , la cual puedes descargar en el siguiente link:
-https://www.arduino.cc/en/Main/OldSoftwareReleases#1.0.x
 
 
  ----------------------------------------
@@ -38,6 +36,5 @@ http://nootropicdesign.com/hackvision/games.html
 
 To upload them to the board you will need the typical USB2Serial Adapter (based on FTDI chip)  such as those sold by Arduino, Adafruit or Sparkfun among others. Or just use a regular arduino compatible board to upload the code and then put the Atmega chip on the board.
 
-(2018 UPDATE)Many of the game sketches were never updated. The last fully functional Arduino IDE is 1.0.5 ,which you can download follofing this link
-https://www.arduino.cc/en/Main/OldSoftwareReleases#1.0.x
+
 
