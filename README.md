@@ -12,11 +12,6 @@ https://github.com/Avamander/arduino-tvout
 y la librería de Hackvision también:
 https://github.com/nootropicdesign/hackvision
 
-
-Acá podés descargar algunos juegos
-
-http://nootropicdesign.com/hackvision/games.html
-
 Para subir los juegos a la placa vas a necesitar el típico adaptador USB a Serial (basado en el chip FTDI), como los de Arduino, Adafruit or Sparkfun entre otros. O sencillamente usar una placa arduino compatible para subir el códico y luego colocar ese chip Atmega en esta placa. 
 
 
@@ -30,9 +25,6 @@ For playing games, you will need TV Out Library.
 https://github.com/Avamander/arduino-tvout
 and Hackvision library too:
 https://github.com/nootropicdesign/hackvision
-
-Here you can download some games:
-http://nootropicdesign.com/hackvision/games.html
 
 To upload them to the board you will need the typical USB2Serial Adapter (based on FTDI chip)  such as those sold by Arduino, Adafruit or Sparkfun among others. Or just use a regular arduino compatible board to upload the code and then put the Atmega chip on the board.
 
