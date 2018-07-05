@@ -3,6 +3,7 @@ https://nootropicdesign.com/hackvision/games.html
 Lamentablemente (excepto Space Invaders, Pong, Asteroids y Starfield) se encuentran desactualizados y no compilan en IDES de arduino posteriores a la 1.5 por lo que fueron modificados, actualizados y reunidos aquí para estar disponibles en sus versiones compatibles.
 
 Atribuciones y links originales:
+
 Hackvision: Nootropic Design
 https://github.com/nootropicdesign/hackvision/tree/master/Hackvision
 
