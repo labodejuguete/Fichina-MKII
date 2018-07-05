@@ -1,43 +1,31 @@
-# Fichina-MKII
-![alt tag](https://raw.githubusercontent.com/labodejuguete/Fichina-MKII/master/fichinaMKII.jpg)
+Los siguientes juegos se encuentran originalmente en la siguiente página:
+https://nootropicdesign.com/hackvision/games.html
+Lamentablemente (excepto Space Invaders, Pong, Asteroids y Starfield) se encuentran desactualizados y no compilan en IDES de arduino posteriores a la 1.5 por lo que fueron modificados, actualizados y reunidos aquí para estar disponibles en sus versiones compatibles.
 
-Fichina MKII es la versión mejorada de Fichina MKI, diseñada en el 2013 para las actividades anuales de Flexible (http://flexiblelab.com.ar/) 
-Fichina permite jugar juegos clásicos como Pong, Asteroids o Tetris y al mismo tiempo es una placa 100% Arduino Compatible. Podés usar cualquier shield que tengas (excepto las que requieran 3.3V) para expandir sus capacidades (control de motores, servos, leds, tiras de leds, etc.... Fichina está basada en HACKVISION de Nootropic Design.
-https://nootropicdesign.com/hackvision/
+Atribuciones y links originales:
+Hackvision: Nootropic Design
+https://github.com/nootropicdesign/hackvision/tree/master/Hackvision
 
-VIDEO: https://www.facebook.com/flexiblelab/videos/1886968704687139/
+Asteroids: Nootropic Design
+https://github.com/nootropicdesign/arduino-asteroids
 
-Para usar los juegos, vas a necesitar la librería TV Out.
-https://github.com/Avamander/arduino-tvout
-y la librería de Hackvision también:
-https://github.com/nootropicdesign/hackvision
+Tetris: Myles Metzler
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/arduino-tvout/arduinotetris.zip
 
+Parachute: pocketscience
+https://nootropicdesign.com/hackvision/downloads/games/Parachute.zip
 
-Acá podés descargar algunos juegos
+Breakout: Sebastian Goscik
+https://nootropicdesign.com/hackvision/downloads/games/Breakout.zip
 
-http://nootropicdesign.com/hackvision/games.html
+Poofy adventure:Trodoss
+http://www.team-arg.org/pfy-manual.html
 
-Para subir los juegos a la placa vas a necesitar el típico adaptador USB a Serial (basado en el chip FTDI), como los de Arduino, Adafruit or Sparkfun entre otros. O sencillamente usar una placa arduino compatible para subir el códico y luego colocar ese chip Atmega en esta placa. 
+Whack-a-rat: Nootropic Design
+https://nootropicdesign.com/hackvision/downloads/games/Whackarat.zip
 
-(2018 UPDATE) Muchos de los juegos nunca fueron actualizados por lo que la última IDE de Arduino testeada funcional es la 1.0.5 , la cual puedes descargar en el siguiente link:
-https://www.arduino.cc/en/Main/OldSoftwareReleases#1.0.x
+Starfield: Mário Vairinhos
+https://noperation.wordpress.com/2012/11/27/arduino-starfield/
 
-
- ----------------------------------------
-
-Fichina lets you play classical games like Pong, Arkanoid, Asteroids, Tetris, and is also a completely functional Arduino-compatible board. You can use any shield (except from those that uses 3.3V) to expand its capabilities (DC motor control, servos, leds, led stripes, etc...) .Fichina is based on HACKVISION by Nootropic Design.
-https://nootropicdesign.com/hackvision/
-
-For playing games, you will need TV Out Library.
-https://github.com/Avamander/arduino-tvout
-and Hackvision library too:
-https://github.com/nootropicdesign/hackvision
-
-Here you can download some games:
-http://nootropicdesign.com/hackvision/games.html
-
-To upload them to the board you will need the typical USB2Serial Adapter (based on FTDI chip)  such as those sold by Arduino, Adafruit or Sparkfun among others. Or just use a regular arduino compatible board to upload the code and then put the Atmega chip on the board.
-
-(2018 UPDATE)Many of the game sketches were never updated. The last fully functional Arduino IDE is 1.0.5 ,which you can download follofing this link
-https://www.arduino.cc/en/Main/OldSoftwareReleases#1.0.x
+Tetris, Parachute, Breakout, Poofy adventure y Whack-a-rat fueron modificados y actualizados por el Laboratorio de Juguete para compilar en la IDE 1.8.4
 
