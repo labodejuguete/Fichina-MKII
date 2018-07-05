@@ -2,7 +2,7 @@
 ![alt tag](https://raw.githubusercontent.com/labodejuguete/Fichina-MKII/master/fichinaMKII.jpg)
 
 Fichina MKII es la versión mejorada de Fichina MKI, diseñada en el 2013 para las actividades anuales de Flexible (http://flexiblelab.com.ar/) 
-Fichina permite jugar juegos clásicos como Pong, Asteroids o Tetris y al mismo tiempo es una placa 100% Arduino Compatible. Podés usar cualquier shield que tengas (excepto las que requieran 3.3V) para expandir sus capacidades (control de motores, servos, leds, tiras de leds, etc.... Fichina está basada en HACKVISION de Nootropic Design.
+Fichina permite jugar juegos clásicos como Pong, Asteroids o Tetris y está basada en HACKVISION de Nootropic Design.
 https://nootropicdesign.com/hackvision/
 
 VIDEO: https://www.facebook.com/flexiblelab/videos/1886968704687139/
@@ -18,7 +18,7 @@ Para subir los juegos a la placa vas a necesitar el típico adaptador USB a Seri
 
  ----------------------------------------
 
-Fichina lets you play classical games like Pong, Arkanoid, Asteroids, Tetris, and is also a completely functional Arduino-compatible board. You can use any shield (except from those that uses 3.3V) to expand its capabilities (DC motor control, servos, leds, led stripes, etc...) .Fichina is based on HACKVISION by Nootropic Design.
+Fichina lets you play classical games like Pong, Arkanoid, Asteroids, Tetris, and is based on HACKVISION by Nootropic Design.
 https://nootropicdesign.com/hackvision/
 
 For playing games, you will need TV Out Library.
